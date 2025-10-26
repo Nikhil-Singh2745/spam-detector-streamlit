@@ -9,7 +9,7 @@
 
 A simple yet powerful web application built with **Streamlit** and **Scikit-learn** to classify SMS/email messages as **Spam** or **Ham** (Not Spam).
 
-[Live Demo](https://www.google.com/search?q=YOUR_STREAMLIT_APP_URL_HERE) • [Report Bug](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/issues) • [Request Feature](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/issues)
+[Live Demo](https://spam-detector-app-5uswehehzoruhnftj29ckv.streamlit.app/) • [Report Bug](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/issues) • [Request Feature](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/issues)
 
 </div>
 
@@ -60,16 +60,12 @@ This project demonstrates an **end-to-end Machine Learning workflow** for text c
 
 ## 📸 Screenshots
 
-### Main Interface
-![Main Interface](URL_TO_YOUR_SCREENSHOT_1_HERE)
-*The clean and intuitive main interface of the Spam Detector*
-
 ### Ham (Not Spam) Prediction
-![Ham Prediction Example](URL_TO_YOUR_SCREENSHOT_2_HERE)
+![Ham Prediction Example](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/blob/main/screenshots/screenshot3.png)
 *Example of a legitimate message being correctly classified*
 
 ### Spam Prediction with Analysis
-![Spam Prediction Example](URL_TO_YOUR_SCREENSHOT_3_HERE)
+![Spam Prediction Example](https://github.com/Nikhil-Singh2745/spam-detector-streamlit/blob/main/screenshots/screenshot2.png)
 *Spam message detection with detailed analysis and keyword highlighting*
 
 
